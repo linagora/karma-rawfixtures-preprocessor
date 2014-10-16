@@ -1,0 +1,23 @@
+{
+  "name": "karma-rawfixtures-preprocessor",
+  "version": "0.0.1",
+  "description": "Karma plugin that puts the content of fixture files in a __FIXTURES__ global array.",
+  "main": "lib/index.js",
+  "keywords": [
+    "karma-plugin",
+    "karma-preprocessor",
+    "angularjs",
+    "angular",
+    "unit-testing",
+    "fixtures"
+  ],
+  "author": {
+    "name": "Linagora Folks",
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "peerDependencies": {
+    "karma": ">=0.9"
+  },
+  "license": "MIT"
+}
